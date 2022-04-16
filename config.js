@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    titleWeb: "Hello em",
+    introTitle: 'Gửi Phạm Đức Minh',
+    introDesc: `Cảm ơn em vì đã xuất hiện trong cuộc đời anh`,
+    btnIntro: 'Đây là bất ngờ anh dành cho em <3 (Nhấp vào)',
+    title: 'Cảm ơn em hôm ấy đã chúc mừng sinh nhật cho anh và cho anh cơ hội được yêu em',
+    desc: 'Em có yêu anh không, Cơ mà anh biết câu trả lời rồi',
+    btnYes: 'Yêu lắm Kiki <3',
+    btnNo: 'Không có yêu đâu ',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu mình <3',
+    btnReply: 'Gửi cho Phi <3',
+    reply: 'Em iu anh Phi Phạm',
+    mess: 'Anh yêu em nhiều lắm Minh béo Kiki',
+    messDesc: 'Đây là món quà hôm qua anh hứa này. Chúc em ngủ ngon và mau hết bệnh nha. Iu emmmm ',
+    btnAccept: 'Dạ kiki,
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
