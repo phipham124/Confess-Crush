@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Hello em",
     introTitle: 'Gửi Nguyễn Thế Anh',
-    introDesc: `Cảm ơn em vì đã xuất hiện trong cuộc đời anh`,
+    introDesc: 'Cảm ơn em vì đã xuất hiện trong cuộc đời anh',
     btnIntro: 'Đây là bất ngờ anh dành cho em <3 (Nhấp vào)',
     title: 'Cảm ơn em vì đã xuất hiện trong cuộc đời anh',
     desc: 'Em có yêu anh không, Cơ mà anh biết câu trả lời rồi',
