@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Anh yêu em nhiều lắm',
     messDesc: 'Chào buổi sáng người yêu của anh. Anh yêu Thế Anh của anh nhiều lắm',
     btnAccept: '<3<3<3',
-    messLink: 'https://www.instagram.com/direct/t/340282366841710300949128206567641587552' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.instagram.com/phipham124/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
