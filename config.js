@@ -9,9 +9,9 @@ const CONFIG = {
     btnNo: 'Không có yêu đâu ',
     question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu mình <3',
     btnReply: 'Gửi cho Phi be de<3',
-    reply: 'Em iu anh ',
+    reply: 'Bởi vì anh vú to ạ, em thích lắm kkk',
     mess: 'Anh yêu em nhiều lắm',
     messDesc: 'Chào buổi sáng người yêu của anh. Anh yêu Thế Anh của anh nhiều lắm',
     btnAccept: '<3<3<3',
-    //messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.instagram.com/direct/t/340282366841710300949128206567641587552' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
